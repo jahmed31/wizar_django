@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b13c5177-ba01-401e-ac47-0df60d1f0946" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +42,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -80,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606169886332</updated>
-      <workItem from="1606169887363" duration="504000" />
+      <workItem from="1606169887363" duration="1190000" />
     </task>
     <servers />
   </component>
